@@ -11,6 +11,5 @@ dependencies:
     - thinc
     - seaborn
     - NLTK
-    - xgboost
     - time
     - datetime
